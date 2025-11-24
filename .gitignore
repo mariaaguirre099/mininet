@@ -1,0 +1,11 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore PHPStorm / VSCode settings
+.idea/
+.vscode/
+
+# Ignore database backups or config files
+*.sqlite
+config.php

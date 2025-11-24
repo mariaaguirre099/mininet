@@ -1,0 +1,112 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Header links */
+h1 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+h1 a {
+    color: #666;
+}
+
+/* Page title */
+h2 {
+    text-align: center;
+    margin: 10px 0;
+    color: #f2f2f2;
+}
+
+/* Main container */
+main {
+    color: #f9f9f9;
+    width: 80%;
+    max-width: 1000px;
+    margin: 20px auto;
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+
+/* Table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+/* Header row */
+table th {
+    background-color: #2c2c2c;
+    color: #e6e6e6;
+    padding: 12px;
+    font-size: 16px;
+    border-bottom: 2px solid #3a3a3a;
+    text-align: left;
+}
+
+/* Data rows */
+table td {
+    padding: 12px;
+    font-size: 15px;
+    border-bottom: 1px solid #333;
+}
+
+/* Alternate row shading */
+table tr:nth-child(even) {
+    background-color: #181818;
+}
+
+table tr:nth-child(odd) {
+    background-color: #1f1f1f;
+}
+
+/* Hover effect */
+table tr:hover {
+    background-color: #2a2a2a;
+}
+
+/* Username links */
+table a {
+    color: #4da3ff;
+}
+
+table a:hover {
+    text-decoration: underline;
+}
+
+/* Buttons */
+input[type="submit"] {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    color: #000;
+    cursor: pointer;
+    font-size: 0.85rem;
+}
+
+input[type="submit"]:hover {
+    background-color: #4da3ff;
+    color: #fff;
+}
