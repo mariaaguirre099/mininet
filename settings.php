@@ -38,6 +38,7 @@ try {
 <head>
     <meta charset="UTF-8">
     <title>mininet | settings</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.png">
     <link rel="stylesheet" href="/css/settings.css">
     <link rel="stylesheet" href="/css/header.css">
 </head>

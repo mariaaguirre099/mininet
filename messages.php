@@ -86,6 +86,7 @@ try {
 <head>
     <meta charset="UTF-8">
     <title>mininet | messages </title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.png">
     <link rel="stylesheet" href="/css/messages.css">
     <link rel="stylesheet" href="/css/header.css">
 </head>

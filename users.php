@@ -47,6 +47,7 @@ $users = fetchUsers($conn, 'Regular');
 <head>
     <meta charset="UTF-8">
     <title>Mininet | Users</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.png">
     <link rel="stylesheet" href="/css/users.css">
     <link rel="stylesheet" href="/css/header.css">
 </head>

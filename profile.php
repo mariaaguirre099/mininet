@@ -94,6 +94,7 @@ $conn = null;
 <head>
     <meta charset="UTF-8">
     <title>mininet | <?php echo htmlspecialchars($profileUsername); ?></title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.png">
     <link rel="stylesheet" href="/css/profile.css">
     <link rel="stylesheet" href="/css/header.css">
 </head>

@@ -65,6 +65,7 @@ try {
 <head>
     <meta charset="UTF-8">
     <title>mininet | posts</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.png">
     <link rel="stylesheet" href="/css/posts.css">
     <link rel="stylesheet" href="/css/header.css">
 </head>
